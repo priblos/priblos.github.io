@@ -1,0 +1,37 @@
+/* @media(max-width: 991px){
+    .navigation{
+        width: 710px !important;
+    }
+}
+@media (min-width:576px) and (max-width:768px){
+    section::after {
+        width: 161px !important;
+        height: 159px !important;
+    }
+    section::before {
+        width: 349px !important;
+        height: 304px !important;
+    }
+    .navigation {
+        width: 540px !important;
+    }
+    .about h3 {
+        margin-left: -48px !important;
+    }
+    .skills .container .card {
+        width: 200px !important;
+    }
+    .about p {
+        font-size: 12px !important;
+        margin-left: -60px !important;
+    }
+}
+@media (min-width:769px) and (max-width:992px) {
+
+}
+@media (min-width:993px) and (max-width:1200px){
+
+}
+@media (min-width:1201px) and (max-width:1400px){
+    
+} */
